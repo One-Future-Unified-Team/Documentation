@@ -1,5 +1,5 @@
 # Support
-We, Software and Website Developer Team provided multiple methods for people to ask and gain support about our official projects. We currently has two support, community support provided by our experienced community users and official support provided by us. Official support only available during our business hours through since our indie team aren't always online. 
+We, One Future Unified Team provided multiple methods for people to ask and gain support about our official projects. We currently has two support, community support provided by our experienced community users and official support provided by us. Official support only available during our business hours through since our indie team aren't always online. 
 
 ## Official Support Only
 ### Facebook Pages
@@ -10,4 +10,4 @@ Except for Facebook, we also provide support on our official Twitter account. Us
 
 ## Community and Official Support
 ### Wiki
-We currently also operate a wiki hosted in Miraheze. Users could get information about Software and Website Developer Team in the wiki. Users could also ask and give support about one Future Web in the wiki too. 
+We currently also operate a wiki hosted in Miraheze. Users could get information about One Future Unified Team in the wiki. Users could also ask and give support about One Future Unified Team in the wiki too. 
